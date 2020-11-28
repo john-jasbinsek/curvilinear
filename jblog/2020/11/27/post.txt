@@ -9,6 +9,8 @@ And then write the footnotes themselves at the bottom of your ﬁle like this:
 Use this syntax ^[This should be the 3rd footnote] for inline footnotes.
 And ^[this should be the 4th footnote] in the footnote list.
 
+what happens now.[^5]
+
 df
 df
 df
@@ -61,3 +63,4 @@ rtre
 
 [^1]: And the note goes here.
 [^2]: And the second goes here too.
+[^5]: did this work?
