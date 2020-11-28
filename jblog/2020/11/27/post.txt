@@ -8,5 +8,32 @@ And then write the footnotes themselves at the bottom of your ﬁle like this:
 
 Use this syntax ^[Footnote text goes here] for inline footnotes.
 
+df
+df
+df
+d
+
+fd
+fd
+fd
+
+fdfdfd
+
+
+
+ffdff
+
+
+fd
+fd
+fd
+fd
+fd
+fd
+fd
+f
+fd
+
+
 [^1]: And the note goes here.
 [^2]: And the second goes here too.
