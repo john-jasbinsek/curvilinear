@@ -6,7 +6,8 @@ And then write the footnotes themselves at the bottom of your ﬁle like this:
 
 
 
-Use this syntax ^[Footnote text goes here] for inline footnotes.
+Use this syntax ^[This should be the 3rd footnote] for inline footnotes.
+And ^[this should be the 4th footnote] in the footnote list.
 
 df
 df
@@ -33,6 +34,29 @@ fd
 fd
 f
 fd
+df
+fd
+df
+fd
+fd
+hg
+hj
+j
+76
+65
+tr
+r
+re
+45
+ty
+tr
+45
+65
+76
+iu
+k
+tr
+rtre
 
 
 [^1]: And the note goes here.
