@@ -1,7 +1,7 @@
 # About JBlog
 
 ## John J. Jasbinsek
-### Geology & Geophysics at Cal Poly San Luis Obispo
+Geology & Geophysics at Cal Poly San Luis Obispo
 ![about-pic](./_about-pic.jpg)
 
 I teach geology and geophysics at [California Polytechnic State University](https://calpoly.edu),
