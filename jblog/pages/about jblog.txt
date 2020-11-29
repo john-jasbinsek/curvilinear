@@ -4,12 +4,14 @@ Blog & Cal Poly Homepage
 ![about-pic](./_about-pic.jpg)
 
 **Blog**
+
 In this blog I will post about the goings on at Cal Poly Geology, as well as other interests of my own 
 (not to be confused with the interests of the other geology faculty, or possibly even anyone else in
 the universe).
 
 
 **Cal Poly Homepage**
+
 I teach geology and geophysics at [California Polytechnic State University](https://calpoly.edu),
 San Luis Obispo, where I am tucked away in the [Physics Department](https://physics.calpoly.edu)
 for safe keeping.
