@@ -1,6 +1,4 @@
-# About JBlog
-
-## John J. Jasbinsek
+# John J. Jasbinsek
 Blog & Cal Poly Homepage
 ## 
 ![about-pic](./_about-pic.jpg)
