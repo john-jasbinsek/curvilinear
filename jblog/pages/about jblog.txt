@@ -1,6 +1,8 @@
 # About JBlog
 
 ## John J. Jasbinsek
+![about-pic](./about-pic.jpg)
+
 I teach geology and geophysics at [California Polytechnic State University](https://calpoly.edu),
 San Luis Obispo, where I am tucked away in the [Physics Department](https://physics.calpoly.edu)
 for safe keeping.
