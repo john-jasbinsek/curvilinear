@@ -1,6 +1,6 @@
 # Study Geology at Cal Poly
 
-The Geology Program at Cal poly is jointly offered by facult in the Physics Department and the
+The Geology Program at Cal poly is jointly offered by faculty in the Physics Department and the
 Natural Resources & Environmental Earth Sciences (NRES) Department.
 
 To major in geology, enroll in the B.S. Program in Environmental Earth and Soil Sciences and
@@ -8,7 +8,7 @@ select the Geology Concentration.
 
 The Geology Concentration is designed for all of:
 - The required educational preparation for the Professional Geologist Licensure in California
-- Graduate school in geology or other area of the earth sciences
+- Graduate school in geology or other areas of the earth sciences
 - To work as a geologist in private or governmental geologist roles.
 
 Please visit the [Cal Poly Geology](https://www.calpolygeology.info) for information.
