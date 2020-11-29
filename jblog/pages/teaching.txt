@@ -1,6 +1,6 @@
 # Teaching
 
-![teaching-pic](./teaching-pic.jpg)
+![teaching-pic](./_teaching-pic.jpg)
 
 I teach a variety of geology and geophysics courses. Below are links to simple websites I use
 to supplement the in-class meetings. Note that unless I am currently teaching the course the
