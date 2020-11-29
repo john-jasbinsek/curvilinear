@@ -1,0 +1,15 @@
+# Teaching
+
+I teach a variety of geology and geophysics courses. Below are links to simple websites I use
+to supplement the in-class meetings. Note that unless I am currently teaching the course the
+websites may be offline or in various states of disrepair!
+
+[GEOL 102:](https://tinyurl.com/geol-102) Introduction to Geology
+[GEOL 201:](https://tinyurl.com/geol-201) Physical Geology
+[GEOL 206:](https://tinyurl.com/geol-206) Geologic Excursions
+[GEOL 241:](https://tinyurl.com/geol-241) Physical Geology Laboratory
+[GEOL 301:](https://tinyurl.com/geology-301) Physical Models in the Geosciences
+[GEOL 303:](https://tinyurl.com/geology-303) Computation and Visualization in the Geosciences
+[GEOL 305:](https://tinyurl.com/geology-305) Seismology and Earth Structure
+[GEOL 420:](https://tinyurl.com/geol-420) Applied Geophysics
+[PHYS 410:](https://tinyurl.com/physics-410) Physics of Solid Earth
