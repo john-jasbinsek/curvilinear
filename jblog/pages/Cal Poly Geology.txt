@@ -1,5 +1,7 @@
 # Study Geology at Cal Poly
 
+![sgcp](./_study-geology-pic-orig.jpg)
+
 The Geology Program at Cal poly is jointly offered by faculty in the Physics Department and the
 Natural Resources & Environmental Earth Sciences (NRES) Department.
 
