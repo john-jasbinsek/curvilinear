@@ -4,11 +4,12 @@ John Jasbinsek's _Blog_ & _Cal Poly Homepage_
 ## 
 ![about-pic](./_about-pic.jpg)
 
-**Blog**
+**About JBlog**
 
-The blog will contain posts about the goings on at Cal Poly Geology, as well as other interests of my own 
+The blog contains posts about the goings on at [Cal Poly Geology](https://www.calpolygeology.info), as well as other interests of my own 
 (not to be confused with the interests of the other geology faculty, or possibly even anyone else in
-the universe).
+the universe). Mostly my interests are pretty nerdy. The name "JBlog" simply comes from the fact that all my initials (even my middle intial)
+are "J" (my middle name is Jeremy).
 
 
 **Cal Poly Homepage**
