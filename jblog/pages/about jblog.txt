@@ -1,7 +1,6 @@
 # About This Site
-John J. Jasbinsek
+John Jasbinsek's _Blog_ & _Cal Poly Homepage_
 
-Blog & Cal Poly Homepage
 ## 
 ![about-pic](./_about-pic.jpg)
 
