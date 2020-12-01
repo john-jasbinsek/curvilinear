@@ -6,7 +6,7 @@ John Jasbinsek's _Blog_ & _Cal Poly Homepage_
 
 **Blog**
 
-This blog will contain posts about the goings on at Cal Poly Geology, as well as other interests of my own 
+The blog will contain posts about the goings on at Cal Poly Geology, as well as other interests of my own 
 (not to be confused with the interests of the other geology faculty, or possibly even anyone else in
 the universe).
 
@@ -23,5 +23,5 @@ Please see the links below for information about my Cal Poly activities.
 - [Research](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/jblog-cphp-pages/research.html)
 - [Photo Albums](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/jblog-cphp-pages/photo-albums.html)
 
-You can [email me at Cal Poly](mailto:jjasbins@calpoly.edu)
+[Email me](mailto:jjasbins@calpoly.edu) at Cal Poly.
 
