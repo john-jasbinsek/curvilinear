@@ -20,9 +20,9 @@ for safe keeping.
 
 Please see the links below for information about my Cal Poly activities.
 
-- [Courses](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/jblog-cphp-pages/courses.html)
-- [Research](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/jblog-cphp-pages/research.html)
-- [Photo Albums](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/jblog-cphp-pages/photo-albums.html)
+- [Courses](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/cp-pages/courses.html)
+- [Research](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/cp-pages/research.html)
+- [Photo Albums](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/cp-pages/photo-albums.html)
 
 [Email me](mailto:jjasbins@calpoly.edu) at Cal Poly.
 
