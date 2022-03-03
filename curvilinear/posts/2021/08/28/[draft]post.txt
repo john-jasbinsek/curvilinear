@@ -1,0 +1,6 @@
+Bibliography: bibliography.bib
+
+# Practice Post with Bibliography
+
+the 410-lvl characterized by [@jd07]
+

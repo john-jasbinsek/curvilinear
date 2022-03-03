@@ -1,0 +1,20 @@
+{>|} Click the links below for my supplemental course websites
+# Courses
+
+![teaching-pic](./_teaching-pic.jpg)
+
+## Courses
+
+The links below take you to simple websites I keep to complement my courses. No guarantees any particular one will be current or functional except, hopefully, 
+those that I am currently teaching (Winter Quarter 2022); these will have **bolded titles**.
+
+- Survey of Geology: [GEOL 102](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/course-websites/geol-102/)
+- **Physical Geology:** [GEOL 201](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/course-websites/geol-201/)
+- Geologic Excursions: [GEOL 206](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/course-websites/geol-206/)
+- Physical Geology Laboratory: [GEOL 241](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/course-websites/geol-241/)
+- Physical Models in the Geosciences: [GEOL 301](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/course-websites/geol-301/)
+- **Computation and Visualization in the Geosciences:** [GEOL 303](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/course-websites/geol-303/)
+- Seismology and Earth Structure: [GEOL 305](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/course-websites/geol-305/)
+- Applied Geophysics: [GEOL 420](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/course-websites/geol-420/)
+- Physics of Solid Earth: [PHYS 410](https://filedn.com/lhT56ADuefxuE99NAXo9VKH/cal-poly/course-websites/phys-410/)
+

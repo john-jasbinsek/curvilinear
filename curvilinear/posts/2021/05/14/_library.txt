@@ -1,0 +1,17 @@
+Tags: Funny
+
+# Library Architecture
+As inaugural post on this blog I just want share a light-hearted note.
+
+Being a nerd, I certainly love libraries. [Kennedy Library](https://lib.calpoly.edu/) on the [Cal Poly San Luis Obispo](https://www.calpoly.edu/) campus, where I work,
+is a wonderful place simply because it is a library.
+
+However, I've always felt it looked like a building you would use to *burn books* rather than *store books*. In the image below, one can almost imagine
+the books are aglow:
+
+{>|} Kennedy Library
+![libpic](./_kennedy-library-aglow.jpg)
+
+In its favor, I will note that a colleague in architectural engineering assures me that the building is seismically sound.
+
+Again, I love the library so this is just a light-hearted post - it's probably just the [brutalist architecture](https://www.architecture.com/explore-architecture/brutalism) that gets to me.

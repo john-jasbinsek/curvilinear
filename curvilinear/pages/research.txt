@@ -1,0 +1,31 @@
+{>|} Geophysical Research at Cal Poly SLO
+# Research
+
+I work in and supervise student research and senior projects in the areas of near-surface geophysics and global seismology.
+If you are a student and want to discuss opportunities in these areas please send me an [email](mailto:jjasbins@calpoly.edu).
+
+Want to learn about everything else going on in geology at Cal Poly? Please visit [Cal Poly Geology](https://www.calpolygeology.info).
+
+## Near-surface Geophysics
+I use two- and three-dimensional electrical resistivity tomography to image near-surface geologic structures (e.g. faults, folds). The typical application is to groundwater flow and recharge. Previous projects have included imaging the affect of faults on aquifer recharge and imaging geologic sturcutures in aquifers that modulate groundwater levels over short distances (for example, a fold with multiple clay layers).
+
+Below is two-dimensional electrical resistivity tomography image collected on Cal Poly land for a well-siting project. Nearby boreholes give some control over the sediment structure. An area of sand/gravel is clearly identified as a good location for a well (image credit: Paul Lavelle from the Fall 2020 GEOL 420 class).
+
+{>|} 2D ERT survey collected with a SuperSting-R8 electrical resistivity meter (56 electrodes @ 1-meter spacing).
+![nsgpic](./_2d-ert-image.png)
+
+## Global Seismology
+Global seismology analyzes earthquake waves to determine earth's deep interior structure and state. Currently students have been exploring ultra-low velocity zones (ULVZ) 
+at earth's core-mantle boundary at 2,900 km depth using PcP and ScP seismic phases.
+
+The image below shows a model fit (red: data, blue: synthetic) of ultra-low velocity zone structure using PcP phase arrivals recorded at a high density array from an 112.5 km deep earthquake at an epicentral distance of 33.5 degrees. 
+The PcP phase arrival shows a multi-layered structure at the core-mantle boundary. 
+Modeling these complex core-mantle boundary reflections with synthetic seismograms constrains the structure and state of the core-mantle boundary.
+
+{>|} Seismological constraints on core-mantle boundary structure
+![gspic](./_pcpmodel.jpg)
+
+
+
+
+

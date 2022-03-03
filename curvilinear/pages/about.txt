@@ -1,0 +1,24 @@
+{>|} **John J. Jasbinsek** Geophysicist at Cal Poly San Luis Obispo
+# About
+
+I am a professor of geophysics tucked away for safe keeping in the [Physics Department](https://physics.calpoly.edu/) at [California Polytechnic State University](https://www.calpoly.edu/), San Luis Obispo.
+
+{>|} ![about-pic](./_about-pic.jpg)
+
+*curvilinear.blog* will contain posts about the goings on in geology at Cal Poly as well as other interests of my own^1^. 
+
+
+*curvilinear.blog* also functions as a *very simple website* for my Cal Poly activities (see navigation menu at the top of the page).
+
+The name *curviliner* is motivated by my hope that I don't get *too nonlinear* on a 
+regular basis - curvilinear coordinates are at least invertible!
+
+If you want to learn more about studying geology at Cal Poly, please visit the [Cal Poly Geology Website](https://www.calpolygeology.info/). Cal Poly Geology also *very occassionally* [tweets](https://twitter.com/CalPolyGeology).
+
+
+
+Questions about this site? Send me an [email](mailto:curvilinear@runbox.email).
+
+---
+
+^1^ Mostly my interests are on the nerdy side, and should not to be confused with the interests of the other geology faculty (or even most other people).

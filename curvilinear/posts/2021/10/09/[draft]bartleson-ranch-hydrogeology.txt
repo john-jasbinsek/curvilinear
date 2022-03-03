@@ -1,0 +1,26 @@
+Tags: GEOL 420, Bartleson Ranch, Electrical Resistivity
+
+# Bartleson Ranch Hydrogeology Project
+
+In 2015 Cal Poly was gifted [Bartleson Ranch](https://www.sanluisobispo.com/news/local/article39537558.html), an approximately 450 acre orchard consisting of avocado and lemon trees.
+Bartleson Ranch provides many student [research opportunities and experiences](https://cafes.calpoly.edu/cultivate-summer-2020/bee-sweet-bartleson-ranch).
+
+Groundwater resources at the ranch have been declining and recently most of the drilling for new well sites have been unsuccessful.
+In this project we will apply geophysical imaging of the subsurface in the hopes of identifying promising new locations for groundwater wells.
+After walking the ranch to examine the limited geologic outcrops, we chose our first geophysical survey (a 2D electrical resistivity tomography survey) over a linear drainage
+area that might be a strand of the Wilmar Avenue Fault.
+
+The GEOL 420 Applied Geophysics class collected the profile today. Because the surface soil is quite dry we applied some methods to help [reduce
+the contact resistance](https://www.agiusa.com/blog/quick-tip-improving-contact-resistance):
+- dig a shallow hole for the electrodes
+- pour in some salt water
+- put in a doubled over sheet of heavy duty tin foil
+- pound in the electrodes (we used two electrodes per hole because our survey used 56 electrodes but we have 112 electrode)
+- pour in more salt water
+- cover with the soil that was shoveled out
+
+This improved the contact resistance quite a lot - it was rare that our contact resistance test
+exceeded $$2000 \:  \Omega$$ even in the very dry rock soil where the last rainy season was, well, not very rainy.
+
+
+

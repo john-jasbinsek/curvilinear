@@ -1,0 +1,39 @@
+{>|} A poorly sorted set of links, resources, etc.
+# The Rest
+
+Even though there too much here for a comfortable single webpage, I am going to cram it all here anyway. One way to accomplish this is to 
+have links open to external pages hosted by [Simplenote](https://simplenote.com/) and/or [HackMD](https://hackmd.io). Maybe really all this page really 
+represents are "notes to self." Still, you might find *something* of use.
+
+## Computational Resources
+[Matlab](https://hackmd.io/@john-jasbinsek/BkOtvkGbF)  |  [Fortran](https://hackmd.io/@john-jasbinsek/Sk1-qRbWY)  |  [Julia](https://hackmd.io/@john-jasbinsek/r1Gw_1fWK)  |  [Scientific Python](https://hackmd.io/@john-jasbinsek/Sk1sdJM-t)  |  [Mathematica](https://hackmd.io/@john-jasbinsek/rk2-YJzZF)  |  [R](https://hackmd.io/@john-jasbinsek/HJtAu1zbF)
+
+## Software Tools (with an obvious bias towards geophysics)
+*coming soon*
+
+## Interesting Mathematics
+My undergraduate degree is in mathematics, and I've never gotten over it. More recently I've been trying to read a 
+little about the Foundations and Philosophy of Mathematics. Disclaimer: Pretty much *all* of mathematics is interesting, but I can only put so much here, 
+and of course I only know *a little* anyway.
+
+[Complex Dynamics](https://hackmd.io/@john-jasbinsek/rJVBjJfbt)  |  [Foundations and Philosophy of Mathematics]()  |  []()
+
+
+## Philosophy of Physics
+Quantum Mechanics
+
+I've been reading about the [philosophy of physics](https://hackmd.io/@john-jasbinsek/SyCJGxfZt), essentially just of quantum mechanics. I've never taken a 
+course in quantum mechanics but the book [Philosophy of Physics: Quantum Theory](https://press.princeton.edu/books/hardcover/9780691183527/philosophy-of-physics) does 
+a wonderful job of introducing the early experiments that underly quantum mechanics as well as some of the mathematical principles before going into an excellent exposition
+of the philosophical issues in the various interpretations of quantum mechanics.
+
+
+
+
+## Music
+*e.g. Gustav Mahler*
+
+
+## Novels and Literature
+*e.g. Thomas Mann*
+
